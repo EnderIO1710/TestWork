@@ -13,7 +13,7 @@
 
 ## Задание 2.
   Создать API получения данных из таблицы по страницам как в примере
-- http://test.woerr.ru/app/php/table_json.php?page=1&limit=5 - Пример формирования данных в JSON.
+- http://test.ru/table_json.php?page=1&limit=5 - Пример формирования данных в JSON.
 - page - номер страницы
 - limit - количество строк на странице
 - URL API http://localhost/get_table_data/page=1&limit=5
